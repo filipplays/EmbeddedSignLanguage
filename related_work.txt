@@ -16,5 +16,6 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332480
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622672
 \-> Sign Language recognition with gloves and an Arduino MCU
 
-
+https://ieeexplore.ieee.org/document/10112341/authors#authors
+\-> Hand Gesture Recognition using OpenCV
 
