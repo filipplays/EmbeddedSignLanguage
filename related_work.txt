@@ -31,3 +31,6 @@ https://ieeexplore.ieee.org/document/8275907
 https://ieeexplore.ieee.org/document/10136074
 \-> Deaf and Mute Sign Language Translator on Static Alphabets Gestures using MobileNet
 
+https://ieeexplore.ieee.org/document/9332480
+\-> Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint
+
