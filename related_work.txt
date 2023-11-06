@@ -19,3 +19,15 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622672
 https://ieeexplore.ieee.org/document/10112341/authors#authors
 \-> Hand Gesture Recognition using OpenCV
 
+https://ieeexplore.ieee.org/abstract/document/9752213
+\-> Real-time Sign Language Recognition using Machine Learning and Neural Network
+
+https://ieeexplore.ieee.org/document/8537248
+\-> Sign Language Recognition Using Deep Learning on Custom Processed Static Gesture Images
+
+https://ieeexplore.ieee.org/document/8275907
+\-> Embedded sign language interpreter system for deaf and dumb people
+
+https://ieeexplore.ieee.org/document/10136074
+\-> Deaf and Mute Sign Language Translator on Static Alphabets Gestures using MobileNet
+
